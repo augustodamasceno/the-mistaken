@@ -6,14 +6,6 @@
  * SPDX-License-Identifier: BSD-2-Clause
  */
 
-/* The Mistaken - Utils
- *
- * Copyright (c) 2023, Augusto Damasceno.
- * All rights reserved.
- * 
- * SPDX-License-Identifier: BSD-2-Clause
- */
-
 #include <stdlib.h>
 #include <stdio.h>
 #include <math.h>
